@@ -37,7 +37,7 @@
 
 <details>
   <summary><b>Friends</b></summary>
-    * Salvage_Dev/Milo: [YouTube](https://www.youtube.com/channel/UC7-pjRSGoNEMoIujwOH2Mhw) & [GitHub](https://github.com/Milo123459).
+    * Salvage_Dev/Milo: [![YouTube](https://www.youtube.com/channel/UC7-pjRSGoNEMoIujwOH2Mhw)] & [GitHub](https://github.com/Milo123459).
     
     * Korabi: [YouTube](https://www.youtube.com/channel/UCTTawu7AGSvp6r6n_FWhAZQ) & [GitHub](https://github.com/Korabi20-dev).
     Others will be added here soon.
