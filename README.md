@@ -22,12 +22,12 @@
 ### Random facts about me:
 <details>
   <summary><b>Language Information<b></summary>
-    ### I know:
+    I know:
     * JavaScript
     * Lua
     * TypeScript
     * HTML & CSS
-    ### I want to learn:
+    I want to learn:
     * Rust
     * C#
     * Elixir
