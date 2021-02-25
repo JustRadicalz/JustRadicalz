@@ -19,29 +19,11 @@
 * Join my [Discord Server](https://discord.gg/Zr2PwbSFSd)! (WIP)
 * Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCi_dtTBCGpGL_r5YGyrvJyg)
 
-### Random facts about me:
-<details>
-  <summary><b>Language Information<b></summary>
-    I know:
-    * JavaScript
-    * Lua
-    * TypeScript
-    * HTML & CSS
-    I want to learn:
-    * Rust
-    * C#
-    * Elixir
-    * PypeScript ;)
+### Friends:
 
-</details>
-
-<details>
-  <summary><b>Friends</b></summary>
-    * Salvage_Dev/Milo: [![YouTube](https://www.youtube.com/channel/UC7-pjRSGoNEMoIujwOH2Mhw)] & [GitHub](https://github.com/Milo123459).
-    
-    * Korabi: [YouTube](https://www.youtube.com/channel/UCTTawu7AGSvp6r6n_FWhAZQ) & [GitHub](https://github.com/Korabi20-dev).
-    Others will be added here soon.
-  
-</details>
+* Salvage_Dev: [YouTube Channel](https://www.youtube.com/channel/UC7-pjRSGoNEMoIujwOH2Mhw)
+* Korabi: [YouTube Channel](https://www.youtube.com/channel/UCTTawu7AGSvp6r6n_FWhAZQ)
+* Others will be added here soon.
 
 *Thanks for taking the time to look at my profile! <3* 
+*I will be updating this often, this is a work in progress.*
