@@ -8,7 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustRadicalz&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
 ### Information about me:
-* I'm 14.
 * I currently code with TypeScript, JavaScript, and Lua!
 * I started learning TypeScript 2 months ago.
 * I started learning JavaScript about 5 months ago.
